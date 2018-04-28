@@ -1,0 +1,1 @@
+pin 16 is named as 16 in node mcu as we are using arduino ide 
